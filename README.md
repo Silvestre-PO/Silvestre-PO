@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Silvestre Pérez, a Sr. Software Engineer | MSc
 <!--
 **Silvestre-PO/Silvestre-PO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
